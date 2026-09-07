@@ -1,0 +1,6 @@
+{
+  "name": "Notpad_XR",
+  "description": "A high-performance notepad app with dark mode, user accounts, and powerful note-taking features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
